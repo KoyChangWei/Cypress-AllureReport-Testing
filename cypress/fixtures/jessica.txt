@@ -1,0 +1,2 @@
+This is Jessica test file for invalid file type testing.
+Test case HM03_12 - Invalid file upload. 
